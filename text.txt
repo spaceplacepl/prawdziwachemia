@@ -1,4 +1,6 @@
-<h2 class="tileHeading">Historia i proces tworzenia dynamitu oraz jego warianty</h2>
+<img class="tileImage" src="image1.png" width="600" height="400">
+
+            <h2 class="tileHeading">Historia i proces tworzenia dynamitu oraz jego warianty</h2>
             <p class="tileParagraph">
             Dynamit to materiał wybuchowy odkryty, można by rzec przypadkowo, przez Alfreda
             Nobla, kiedy to zmieszał on nitrogliceryne z ziemią okrzemkową. Nobel zdawał sobie
