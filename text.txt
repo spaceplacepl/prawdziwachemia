@@ -1,14 +1,12 @@
-<img class="tileImage" src="image1.png" width="600" height="400">
-
-            <h2 class="tileHeading">Historia i proces tworzenia dynamitu oraz jego warianty</h2>
-            <p class="tileParagraph">
-            Dynamit to materiał wybuchowy odkryty, można by rzec przypadkowo, przez Alfreda
-            Nobla, kiedy to zmieszał on nitrogliceryne z ziemią okrzemkową. Nobel zdawał sobie
-            sprawe z tego, że ludzie wykorzystają jego wynalazek w niszczycielski sposób wiec w
-            w ramach zadośćuczynienia majątek, który zbił na dynamicie przeznaczył na dobrze 
-            wszystkim znaną Nagrodę Nobla.
-            </p>
-            <p class="tileParagraph">
-            Produkcja dynamitu jest niesłychanie niebezpieczna ale jest to tani i stosunkowo łatwy
-            proces.
-            </p>
+[
+{
+"h1": "Historia i proces tworzenia dynamitu oraz jego wariantyO",
+"p": " Dynamit to materiał wybuchowy odkryty, można by rzec przypadkowo, przez Alfreda Nobla, kiedy to zmieszał on nitrogliceryne z ziemią okrzemkową. Nobel zdawał sobie sprawe z tego, że ludzie wykorzystają jego wynalazek w niszczycielski sposób wiec w ramach zadośćuczynienia majątek, który zbił na dynamicie przeznaczył na dobrze wszystkim znaną Nagrodę Nobla. <br><br> Produkcja dynamitu jest niesłychanie niebezpieczna ale jest to tani i stosunkowo łatwy proces.",
+"image": = "image1.png"
+}
+{
+"h1": "Historia i proces tworzenia dynamitu oraz jego wariantyO",
+"p": " Dynamit to materiał wybuchowy odkryty, można by rzec przypadkowo, przez Alfreda Nobla, kiedy to zmieszał on nitrogliceryne z ziemią okrzemkową. Nobel zdawał sobie sprawe z tego, że ludzie wykorzystają jego wynalazek w niszczycielski sposób wiec w ramach zadośćuczynienia majątek, który zbił na dynamicie przeznaczył na dobrze wszystkim znaną Nagrodę Nobla. <br><br> Produkcja dynamitu jest niesłychanie niebezpieczna ale jest to tani i stosunkowo łatwy proces.",
+"image": = "image1.png"
+}
+]
